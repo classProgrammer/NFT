@@ -1,0 +1,10 @@
+{
+    "attributes" : [
+    {
+        "additional_info": "this is some additional info",
+        "power_level": "10"
+    } ],
+    "description" : "This is a description",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmXvy9VDtBwDeJn9XkrAP6rwtZbJMEYdSF1tRY4Rqs1rsH",
+    "name" : "Custom NFT Token 2"
+}
